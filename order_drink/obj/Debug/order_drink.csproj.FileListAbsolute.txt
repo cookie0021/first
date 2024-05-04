@@ -1,0 +1,180 @@
+C:\Users\asps0\Desktop\order_drink\order_drink\obj\Debug\order_drink.csproj.AssemblyReference.cache
+C:\Users\asps0\Desktop\order_drink\order_drink\obj\Debug\order_drink.Form2.resources
+C:\Users\asps0\Desktop\order_drink\order_drink\obj\Debug\order_drink.Properties.Resources.resources
+C:\Users\asps0\Desktop\order_drink\order_drink\obj\Debug\order_drink.csproj.GenerateResource.cache
+C:\Users\asps0\Desktop\order_drink\order_drink\obj\Debug\order_drink.csproj.CoreCompileInputs.cache
+C:\Users\asps0\Desktop\order_drink\order_drink\obj\Debug\order_drink.Form1.resources
+C:\Users\asps0\Desktop\order_drink\order_drink\bin\Debug\order_drink.exe.config
+C:\Users\asps0\Desktop\order_drink\order_drink\bin\Debug\order_drink.exe
+C:\Users\asps0\Desktop\order_drink\order_drink\bin\Debug\order_drink.pdb
+C:\Users\asps0\Desktop\order_drink\order_drink\obj\Debug\order_drink.exe
+C:\Users\asps0\Desktop\order_drink\order_drink\obj\Debug\order_drink.pdb
+C:\Users\asps0\Desktop\order_drink\order_drink\obj\Debug\order_drink.UserFruit.resources
+C:\Users\asps0\Desktop\order_drink\order_drink\obj\Debug\order_drink.UserExclusive.resources
+C:\Users\asps0\Desktop\order_drink\order_drink\obj\Debug\order_drink.UserOriginal.resources
+C:\Users\asps0\Desktop\order_drink\order_drink\obj\Debug\order_drink.UserMilk.resources
+C:\Users\asps0\Desktop\order_drink\order_drink\obj\Debug\order_drink.UserCoolDown.resources
+C:\Users\asps0\Desktop\order_drink\order_drink\obj\Debug\order_drink.UserTrueMilk.resources
+C:\Users\asps0\Desktop\order_drink1\order_drink\bin\Debug\order_drink.exe.config
+C:\Users\asps0\Desktop\order_drink1\order_drink\bin\Debug\order_drink.exe
+C:\Users\asps0\Desktop\order_drink1\order_drink\bin\Debug\order_drink.pdb
+C:\Users\asps0\Desktop\order_drink1\order_drink\obj\Debug\order_drink.csproj.AssemblyReference.cache
+C:\Users\asps0\Desktop\order_drink1\order_drink\obj\Debug\order_drink.Form1.resources
+C:\Users\asps0\Desktop\order_drink1\order_drink\obj\Debug\order_drink.Form2.resources
+C:\Users\asps0\Desktop\order_drink1\order_drink\obj\Debug\order_drink.UserCoolDown.resources
+C:\Users\asps0\Desktop\order_drink1\order_drink\obj\Debug\order_drink.UserFruit.resources
+C:\Users\asps0\Desktop\order_drink1\order_drink\obj\Debug\order_drink.Properties.Resources.resources
+C:\Users\asps0\Desktop\order_drink1\order_drink\obj\Debug\order_drink.UserExclusive.resources
+C:\Users\asps0\Desktop\order_drink1\order_drink\obj\Debug\order_drink.UserMilk.resources
+C:\Users\asps0\Desktop\order_drink1\order_drink\obj\Debug\order_drink.UserOriginal.resources
+C:\Users\asps0\Desktop\order_drink1\order_drink\obj\Debug\order_drink.UserTrueMilk.resources
+C:\Users\asps0\Desktop\order_drink1\order_drink\obj\Debug\order_drink.csproj.GenerateResource.cache
+C:\Users\asps0\Desktop\order_drink1\order_drink\obj\Debug\order_drink.csproj.CoreCompileInputs.cache
+C:\Users\asps0\Desktop\order_drink1\order_drink\obj\Debug\order_drink.exe
+C:\Users\asps0\Desktop\order_drink1\order_drink\obj\Debug\order_drink.pdb
+C:\Users\iii\Desktop\order_drink1\order_drink\bin\Debug\order_drink.exe.config
+C:\Users\iii\Desktop\order_drink1\order_drink\bin\Debug\order_drink.exe
+C:\Users\iii\Desktop\order_drink1\order_drink\bin\Debug\order_drink.pdb
+C:\Users\iii\Desktop\order_drink1\order_drink\obj\Debug\order_drink.csprojAssemblyReference.cache
+C:\Users\iii\Desktop\order_drink1\order_drink\obj\Debug\order_drink.Form1.resources
+C:\Users\iii\Desktop\order_drink1\order_drink\obj\Debug\order_drink.Form2.resources
+C:\Users\iii\Desktop\order_drink1\order_drink\obj\Debug\order_drink.UserCoolDown.resources
+C:\Users\iii\Desktop\order_drink1\order_drink\obj\Debug\order_drink.UserFruit.resources
+C:\Users\iii\Desktop\order_drink1\order_drink\obj\Debug\order_drink.Properties.Resources.resources
+C:\Users\iii\Desktop\order_drink1\order_drink\obj\Debug\order_drink.UserExclusive.resources
+C:\Users\iii\Desktop\order_drink1\order_drink\obj\Debug\order_drink.UserMilk.resources
+C:\Users\iii\Desktop\order_drink1\order_drink\obj\Debug\order_drink.UserOriginal.resources
+C:\Users\iii\Desktop\order_drink1\order_drink\obj\Debug\order_drink.UserTrueMilk.resources
+C:\Users\iii\Desktop\order_drink1\order_drink\obj\Debug\order_drink.csproj.GenerateResource.cache
+C:\Users\iii\Desktop\order_drink1\order_drink\obj\Debug\order_drink.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\order_drink1\order_drink\obj\Debug\order_drink.exe
+C:\Users\iii\Desktop\order_drink1\order_drink\obj\Debug\order_drink.pdb
+C:\Users\iii\Desktop\order_drink3\order_drink\obj\Debug\order_drink.csprojAssemblyReference.cache
+C:\Users\iii\Desktop\order_drink3\order_drink\obj\Debug\order_drink.UserCoolDown.resources
+C:\Users\iii\Desktop\order_drink3\order_drink\obj\Debug\order_drink.UserFruit.resources
+C:\Users\iii\Desktop\order_drink3\order_drink\obj\Debug\order_drink.Properties.Resources.resources
+C:\Users\iii\Desktop\order_drink3\order_drink\obj\Debug\order_drink.UserExclusive.resources
+C:\Users\iii\Desktop\order_drink3\order_drink\obj\Debug\order_drink.UserMilk.resources
+C:\Users\iii\Desktop\order_drink3\order_drink\obj\Debug\order_drink.UserOriginal.resources
+C:\Users\iii\Desktop\order_drink3\order_drink\obj\Debug\order_drink.UserTrueMilk.resources
+C:\Users\iii\Desktop\order_drink3\order_drink\obj\Debug\order_drink.csproj.GenerateResource.cache
+C:\Users\iii\Desktop\order_drink3\order_drink\obj\Debug\order_drink.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\order_drink3\order_drink\obj\Debug\order_drink.exe
+C:\Users\iii\Desktop\order_drink3\order_drink\obj\Debug\order_drink.pdb
+C:\Users\iii\Desktop\order_drink3\order_drink\bin\Debug\order_drink.exe.config
+C:\Users\iii\Desktop\order_drink3\order_drink\bin\Debug\order_drink.exe
+C:\Users\iii\Desktop\order_drink3\order_drink\bin\Debug\order_drink.pdb
+C:\Users\asps0\Desktop\order_drink3\order_drink\bin\Debug\order_drink.exe.config
+C:\Users\asps0\Desktop\order_drink3\order_drink\bin\Debug\order_drink.exe
+C:\Users\asps0\Desktop\order_drink3\order_drink\bin\Debug\order_drink.pdb
+C:\Users\asps0\Desktop\order_drink3\order_drink\obj\Debug\order_drink.csproj.AssemblyReference.cache
+C:\Users\asps0\Desktop\order_drink3\order_drink\obj\Debug\order_drink.UserCoolDown.resources
+C:\Users\asps0\Desktop\order_drink3\order_drink\obj\Debug\order_drink.UserFruit.resources
+C:\Users\asps0\Desktop\order_drink3\order_drink\obj\Debug\order_drink.Properties.Resources.resources
+C:\Users\asps0\Desktop\order_drink3\order_drink\obj\Debug\order_drink.UserExclusive.resources
+C:\Users\asps0\Desktop\order_drink3\order_drink\obj\Debug\order_drink.UserMilk.resources
+C:\Users\asps0\Desktop\order_drink3\order_drink\obj\Debug\order_drink.UserOriginal.resources
+C:\Users\asps0\Desktop\order_drink3\order_drink\obj\Debug\order_drink.UserTrueMilk.resources
+C:\Users\asps0\Desktop\order_drink3\order_drink\obj\Debug\order_drink.csproj.GenerateResource.cache
+C:\Users\asps0\Desktop\order_drink3\order_drink\obj\Debug\order_drink.csproj.CoreCompileInputs.cache
+C:\Users\asps0\Desktop\order_drink3\order_drink\obj\Debug\order_drink.exe
+C:\Users\asps0\Desktop\order_drink3\order_drink\obj\Debug\order_drink.pdb
+C:\Users\asps0\Desktop\order_drink3\order_drink\bin\Debug\UserCoolDown.resx
+C:\Users\asps0\Desktop\order_drink3\order_drink\bin\Debug\UserCoolDown.cs
+C:\Users\asps0\Desktop\order_drink3\order_drink\bin\Debug\UserCoolDown.Designer.cs
+E:\期中專題\order_drink3\order_drink\bin\Debug\UserCoolDown.resx
+E:\期中專題\order_drink3\order_drink\bin\Debug\UserCoolDown.cs
+E:\期中專題\order_drink3\order_drink\bin\Debug\UserCoolDown.Designer.cs
+E:\期中專題\order_drink3\order_drink\bin\Debug\order_drink.exe.config
+E:\期中專題\order_drink3\order_drink\bin\Debug\order_drink.exe
+E:\期中專題\order_drink3\order_drink\bin\Debug\order_drink.pdb
+E:\期中專題\order_drink3\order_drink\obj\Debug\order_drink.Form4.resources
+E:\期中專題\order_drink3\order_drink\obj\Debug\order_drink.UserCoolDown.resources
+E:\期中專題\order_drink3\order_drink\obj\Debug\order_drink.UserFruit.resources
+E:\期中專題\order_drink3\order_drink\obj\Debug\order_drink.Properties.Resources.resources
+E:\期中專題\order_drink3\order_drink\obj\Debug\order_drink.UserExclusive.resources
+E:\期中專題\order_drink3\order_drink\obj\Debug\order_drink.UserMilk.resources
+E:\期中專題\order_drink3\order_drink\obj\Debug\order_drink.UserOriginal.resources
+E:\期中專題\order_drink3\order_drink\obj\Debug\order_drink.UserTrueMilk.resources
+E:\期中專題\order_drink3\order_drink\obj\Debug\order_drink.csproj.GenerateResource.cache
+E:\期中專題\order_drink3\order_drink\obj\Debug\order_drink.csproj.CoreCompileInputs.cache
+E:\期中專題\order_drink3\order_drink\obj\Debug\order_drink.exe
+E:\期中專題\order_drink3\order_drink\obj\Debug\order_drink.pdb
+C:\Users\iii\Desktop\order_drink3\order_drink\bin\Debug\UserCoolDown.resx
+C:\Users\iii\Desktop\order_drink3\order_drink\bin\Debug\UserCoolDown.cs
+C:\Users\iii\Desktop\order_drink3\order_drink\bin\Debug\UserCoolDown.Designer.cs
+C:\Users\iii\Desktop\order_drink3\order_drink\obj\Debug\order_drink.FormLogin.resources
+C:\Users\iii\Desktop\order_drink3\order_drink\obj\Debug\order_drink.FormOrder.resources
+C:\Users\iii\Desktop\order_drink3\order_drink\obj\Debug\order_drink.FormManager.resources
+E:\期中專題\order_drink3\order_drink\obj\Debug\order_drink.csprojAssemblyReference.cache
+E:\期中專題\order_drink3\order_drink\obj\Debug\order_drink.FormLogin.resources
+E:\期中專題\order_drink3\order_drink\obj\Debug\order_drink.FormManager.resources
+E:\期中專題\order_drink3\order_drink\obj\Debug\order_drink.FormOrder.resources
+E:\期中專題\order_drink3\order_drink\obj\Debug\order_drink.FormUI.resources
+C:\Users\asps0\Desktop\order_drink3\order_drink\obj\Debug\order_drink.FormLogin.resources
+C:\Users\asps0\Desktop\order_drink3\order_drink\obj\Debug\order_drink.FormManager.resources
+C:\Users\asps0\Desktop\order_drink3\order_drink\obj\Debug\order_drink.FormOrder.resources
+C:\Users\asps0\Desktop\order_drink3\order_drink\obj\Debug\order_drink.FormMember.resources
+C:\Users\asps0\Desktop\order_drink3\order_drink\obj\Debug\order_drink.FormRegister.resources
+C:\Users\asps0\Desktop\order_drink3\order_drink\obj\Debug\order_drink.FormToppings.resources
+C:\Users\iii\Desktop\order_drink3\order_drink\obj\Debug\order_drink.FormMember.resources
+C:\Users\iii\Desktop\order_drink3\order_drink\obj\Debug\order_drink.FormToppings.resources
+C:\Users\iii\Desktop\order_drink3\order_drink\obj\Debug\order_drink.FormRegister.resources
+C:\Users\iii\Desktop\order_drink3\order_drink\obj\Debug\order_drink.FormItems.resources
+C:\Users\iii\Desktop\order_drink3\order_drink\obj\Debug\order_drink.FormEmp.resources
+C:\Users\asps0\Desktop\order_drink3\order_drink\obj\Debug\order_drink.FormEmp.resources
+C:\Users\asps0\Desktop\order_drink3\order_drink\obj\Debug\order_drink.FormItems.resources
+E:\Desktop\order_drink3\order_drink\bin\Debug\UserCoolDown.resx
+E:\Desktop\order_drink3\order_drink\bin\Debug\UserCoolDown.cs
+E:\Desktop\order_drink3\order_drink\bin\Debug\UserCoolDown.Designer.cs
+E:\Desktop\order_drink3\order_drink\bin\Debug\order_drink.exe.config
+E:\Desktop\order_drink3\order_drink\bin\Debug\order_drink.exe
+E:\Desktop\order_drink3\order_drink\bin\Debug\order_drink.pdb
+E:\Desktop\order_drink3\order_drink\obj\Debug\order_drink.csproj.AssemblyReference.cache
+E:\Desktop\order_drink3\order_drink\obj\Debug\order_drink.FormEmp.resources
+E:\Desktop\order_drink3\order_drink\obj\Debug\order_drink.FormItems.resources
+E:\Desktop\order_drink3\order_drink\obj\Debug\order_drink.FormLogin.resources
+E:\Desktop\order_drink3\order_drink\obj\Debug\order_drink.FormManager.resources
+E:\Desktop\order_drink3\order_drink\obj\Debug\order_drink.FormMember.resources
+E:\Desktop\order_drink3\order_drink\obj\Debug\order_drink.FormOrder.resources
+E:\Desktop\order_drink3\order_drink\obj\Debug\order_drink.FormToppings.resources
+E:\Desktop\order_drink3\order_drink\obj\Debug\order_drink.FormRegister.resources
+E:\Desktop\order_drink3\order_drink\obj\Debug\order_drink.UserCoolDown.resources
+E:\Desktop\order_drink3\order_drink\obj\Debug\order_drink.UserFruit.resources
+E:\Desktop\order_drink3\order_drink\obj\Debug\order_drink.Properties.Resources.resources
+E:\Desktop\order_drink3\order_drink\obj\Debug\order_drink.UserExclusive.resources
+E:\Desktop\order_drink3\order_drink\obj\Debug\order_drink.UserMilk.resources
+E:\Desktop\order_drink3\order_drink\obj\Debug\order_drink.UserOriginal.resources
+E:\Desktop\order_drink3\order_drink\obj\Debug\order_drink.UserTrueMilk.resources
+E:\Desktop\order_drink3\order_drink\obj\Debug\order_drink.csproj.GenerateResource.cache
+E:\Desktop\order_drink3\order_drink\obj\Debug\order_drink.csproj.CoreCompileInputs.cache
+E:\Desktop\order_drink3\order_drink\obj\Debug\order_drink.exe
+E:\Desktop\order_drink3\order_drink\obj\Debug\order_drink.pdb
+C:\Users\asps0\Desktop\新增資料夾 (3)\order_drink3\order_drink\bin\Debug\UserCoolDown.resx
+C:\Users\asps0\Desktop\新增資料夾 (3)\order_drink3\order_drink\bin\Debug\UserCoolDown.cs
+C:\Users\asps0\Desktop\新增資料夾 (3)\order_drink3\order_drink\bin\Debug\UserCoolDown.Designer.cs
+C:\Users\asps0\Desktop\新增資料夾 (3)\order_drink3\order_drink\bin\Debug\order_drink.exe.config
+C:\Users\asps0\Desktop\新增資料夾 (3)\order_drink3\order_drink\bin\Debug\order_drink.exe
+C:\Users\asps0\Desktop\新增資料夾 (3)\order_drink3\order_drink\bin\Debug\order_drink.pdb
+C:\Users\asps0\Desktop\新增資料夾 (3)\order_drink3\order_drink\obj\Debug\order_drink.csproj.AssemblyReference.cache
+C:\Users\asps0\Desktop\新增資料夾 (3)\order_drink3\order_drink\obj\Debug\order_drink.FormEmp.resources
+C:\Users\asps0\Desktop\新增資料夾 (3)\order_drink3\order_drink\obj\Debug\order_drink.FormItems.resources
+C:\Users\asps0\Desktop\新增資料夾 (3)\order_drink3\order_drink\obj\Debug\order_drink.FormLogin.resources
+C:\Users\asps0\Desktop\新增資料夾 (3)\order_drink3\order_drink\obj\Debug\order_drink.FormManager.resources
+C:\Users\asps0\Desktop\新增資料夾 (3)\order_drink3\order_drink\obj\Debug\order_drink.FormMember.resources
+C:\Users\asps0\Desktop\新增資料夾 (3)\order_drink3\order_drink\obj\Debug\order_drink.FormOrder.resources
+C:\Users\asps0\Desktop\新增資料夾 (3)\order_drink3\order_drink\obj\Debug\order_drink.FormToppings.resources
+C:\Users\asps0\Desktop\新增資料夾 (3)\order_drink3\order_drink\obj\Debug\order_drink.FormRegister.resources
+C:\Users\asps0\Desktop\新增資料夾 (3)\order_drink3\order_drink\obj\Debug\order_drink.UserCoolDown.resources
+C:\Users\asps0\Desktop\新增資料夾 (3)\order_drink3\order_drink\obj\Debug\order_drink.UserFruit.resources
+C:\Users\asps0\Desktop\新增資料夾 (3)\order_drink3\order_drink\obj\Debug\order_drink.Properties.Resources.resources
+C:\Users\asps0\Desktop\新增資料夾 (3)\order_drink3\order_drink\obj\Debug\order_drink.UserExclusive.resources
+C:\Users\asps0\Desktop\新增資料夾 (3)\order_drink3\order_drink\obj\Debug\order_drink.UserMilk.resources
+C:\Users\asps0\Desktop\新增資料夾 (3)\order_drink3\order_drink\obj\Debug\order_drink.UserOriginal.resources
+C:\Users\asps0\Desktop\新增資料夾 (3)\order_drink3\order_drink\obj\Debug\order_drink.UserTrueMilk.resources
+C:\Users\asps0\Desktop\新增資料夾 (3)\order_drink3\order_drink\obj\Debug\order_drink.csproj.GenerateResource.cache
+C:\Users\asps0\Desktop\新增資料夾 (3)\order_drink3\order_drink\obj\Debug\order_drink.csproj.CoreCompileInputs.cache
+C:\Users\asps0\Desktop\新增資料夾 (3)\order_drink3\order_drink\obj\Debug\order_drink.exe
+C:\Users\asps0\Desktop\新增資料夾 (3)\order_drink3\order_drink\obj\Debug\order_drink.pdb
+C:\Users\asps0\Desktop\新增資料夾 (3)\order_drink3\order_drink\obj\Debug\order_drink.csproj.SuggestedBindingRedirects.cache
+C:\Users\asps0\Desktop\order_drink3\order_drink\obj\Debug\order_drink.csproj.SuggestedBindingRedirects.cache
